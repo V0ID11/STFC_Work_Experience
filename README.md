@@ -1,6 +1,6 @@
 # Work_Experience_2022
 
-Self-contained projects for work experience students 2022
+Work Experience Project 2022 At ISIS Rutherford Appleton Laboratory
 
 # 00: Teaching Material
 
